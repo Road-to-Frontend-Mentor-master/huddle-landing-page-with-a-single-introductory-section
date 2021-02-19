@@ -1,7 +1,8 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-Desafío obtenido de la web de <a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0" target="_blanck">Frontend Mentor</a>.
-Pincha <a href="https://road-to-frontend-mentor-master.github.io/huddle-landing-page-with-a-single-introductory-section/" target="_blanck">aquí</a> para ver el resultado en Github Pages.
+Desafío obtenido de la web de <a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0" target="_blank">Frontend Mentor</a>.
+
+Pincha <a href="https://road-to-frontend-mentor-master.github.io/huddle-landing-page-with-a-single-introductory-section/" target="_blank">aquí</a> para ver el resultado en Github Pages.
 
 ## Resultado
 
